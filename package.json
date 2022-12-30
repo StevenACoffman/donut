@@ -13,7 +13,7 @@
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "npm-check": "^5.9.0",
-    "react-scripts": "0.9.5"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
